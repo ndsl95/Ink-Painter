@@ -29,7 +29,6 @@ namespace Es.InkPainter.Sample
 
         [SerializeField]
         private Vector3 lastPoint;
-        Thread thread;
 
         RaycastHit hitInfo;
         Ray ray;
