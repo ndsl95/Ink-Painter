@@ -1,4 +1,4 @@
-# Ink-Painter Unity3D
+# Ink-Painter for Unity3D
 English
 1.Fix Ink Painter quick swipe breakpoint
 2.Fix Low configuration machine
